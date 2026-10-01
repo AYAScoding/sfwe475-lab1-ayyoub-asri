@@ -1,0 +1,3 @@
+- error TS7034: Variable 'tasks' implicitly has type 'any[]' in some locations where its type cannot be determined.
+- error TS2322: Type 'string' is not assignable to type 'boolean'
+- error TS2322: Type 'Task | undefined' is not assignable to type 'Task'

@@ -1,0 +1,26 @@
+{
+  "name": "sfwe475-lab1-ayyoub-asri",
+  "version": "1.0.0",
+  "description": "Advanced Web Programming",
+  "main": "index.js",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "start": "tsx src/index.ts",
+    "clean": "rm -rf dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AYAScoding/sfwe475-lab1-ayyoub-asri.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AYAScoding/sfwe475-lab1-ayyoub-asri/issues"
+  },
+  "homepage": "https://github.com/AYAScoding/sfwe475-lab1-ayyoub-asri#readme",
+  "devDependencies": {
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
